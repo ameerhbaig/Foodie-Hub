@@ -7,13 +7,13 @@ const Footer = () => {
         <div className="banner">
           <div className="left">Foodie Hub</div>
           <div className="right">
-            <p>Frazer Town, Banglore</p>
-            <p>Open: 11:00 AM - 10:00 PM</p>
+            <p>#777, Mosque Road, Frazer Town, Bangalore</p>
+            <p>Open: 11:00 AM - 11:00 PM</p>
           </div>
         </div>
         <div className="banner">
           <div className="left">
-            <p>Developed By RahmatKhan</p>
+            <p>Developed By Ameer Hussain Baig</p>
           </div>
           <div className="right">
             <p>All Rights Reserved 	&#169; Foodie Hub</p>
